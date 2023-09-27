@@ -1,0 +1,119 @@
+.project_details {
+    padding: 2em;
+}
+
+.project_details h1,
+.project_details h2,
+.project_details p{
+    margin-bottom: .2em;
+}
+
+.service_container{
+    padding: .5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 1px solid #222;
+}
+
+.project_details h1{
+    background-color: #222;
+    color: #ffffff;
+    padding: .5em;
+    margin-bottom: .5em;
+}
+
+.project_details span{
+    font-weight: bold;
+}
+
+.details_container,
+.service_form_container {
+    border-bottom: 1px solid #7a7a7a;
+    margin-bottom: 1.2em;
+    padding-bottom: 1.2em;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.details_container p{
+    font-weight: bold;
+}
+
+.btn{
+    background-color: #222;
+    color: #FFF;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: .5s;
+    cursor: pointer;
+    max-height: 40px;
+    border: none;
+}
+
+.btn:hover{
+    color: #ffbb33;
+}
+
+.project_info{
+    width: 100%;
+}
+
+.form_control{
+    width: 275px;
+    height: 200px;
+    display: flex;
+    padding: .4em;
+    background-color: #f8f8f8;
+}
+
+.form_control select{
+    padding: .7em;
+    border-radius: 0;
+    border: none;
+}
+
+.form_control{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.form_control label{
+    margin-top: .2em;
+    font-weight: bold;
+    color: #000000;
+}
+
+.form_control input{
+    padding: .7em;
+    margin-left: 0em;
+    border-radius: 0;
+    border: none;
+    width: 260px;
+    border: 1px solid #000;
+
+}
+
+.form_control input::placeholder{
+    color: #7b7b7b;
+}
+
+.btn{
+    background-color: #000000;
+    color: #FFF;
+    padding: 0.7em 1.5em;
+    text-decoration: none;
+    transition: .5s;
+    cursor: pointer;
+    border: none;
+    width: 100px;
+    margin-top: 1em;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.btn:hover{
+    background-color: #ffbb33;
+    color: #222;
+}

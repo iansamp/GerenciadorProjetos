@@ -1,0 +1,17 @@
+.about{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5em;
+}
+
+.about h1{
+    text-transform: uppercase;
+    padding: 1em;
+}
+
+.about p{
+    padding: 1em;
+}
