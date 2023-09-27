@@ -74,8 +74,7 @@ O Gerenciador de Projetos permite:
 - Criar, visualizar, atualizar e excluir projetos.
 - Associar projetos a tarefas e colaboradores.
 - Acompanhar o status e o progresso dos projetos.
-- Gerenciar colaboradores e atribuir tarefas.
-- Gerar relatórios e gráficos para análise de projetos.
+- Gerenciar e atribuir tarefas.
 
 ## Contribuindo
 
